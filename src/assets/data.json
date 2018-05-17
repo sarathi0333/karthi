@@ -1,0 +1,83 @@
+{
+  "currentStartTime": "2018-04-10T06:04:21.000Z",
+  "currentEndTime": "2018-04-10T08:04:21.000Z",
+  "selectedFileTypes": [
+    "Data Logger Samples",
+    "Truck Payload",
+    "Event"
+  ],
+  "lastStartTime": "2018-04-10T06:04:21.000Z",
+  "lastEndTime": "2018-04-10T08:04:21.000Z",
+  "processedFileTypes": [
+    "Data Logger Samples",
+    "Truck Payload",
+    "Event"
+  ],
+  "modelStructureDTOList": [
+    {
+      "modelName": "792F",
+      "fileStructureDTOList": [
+        {
+          "fileTypeName": "Data Logger Samples",
+          "fileId": "SSP99902180410070421_DQ2.CL3.1",
+          "serialNumber": "SSP99902"
+        }
+      ]
+    },
+    {
+      "modelName": "793F",
+      "fileStructureDTOList": [
+        {
+          "fileTypeName": "Data Logger Samples",
+          "fileId": "SSP99902180410070421_DQ2.CL3.2",
+          "serialNumber": "SSP99902"
+        },
+        {
+          "fileTypeName": "Data Logger Samples",
+          "fileId": "SSP99902180410070421_DQ2.CL3.3",
+          "serialNumber": "SSP99902"
+        },
+        {
+          "fileTypeName": "Data Logger Samples",
+          "fileId": "SSP99902180410070421_DQ2.CL3.4",
+          "serialNumber": "SSP99902"
+        },
+        {
+          "fileTypeName": "Truck Payload",
+          "fileId": "SSP99902180413050500_DQ2.PA3",
+          "serialNumber": "SSP99902"
+        },
+        {
+          "fileTypeName": "Truck Payload",
+          "fileId": "SSP99902180406103333_DQ2.PA3",
+          "serialNumber": "SSP99902"
+        },
+        {
+          "fileTypeName": "Event",
+          "fileId": "SSP99902180410080419_DQ2.EC3",
+          "serialNumber": "SSP99902"
+        },
+        {
+          "fileTypeName": "Event",
+          "fileId": "SSP99902180410090420_DQ2.EC3",
+          "serialNumber": "SSP99902"
+        },
+        {
+          "fileTypeName": "Event",
+          "fileId": "SSP99902180410100423_DQ2.EC3",
+          "serialNumber": "SSP99902"
+        },
+        {
+          "fileTypeName": "Event",
+          "fileId": "SSP99902180410110425_DQ2.EC3",
+          "serialNumber": "SSP99902"
+        },
+        {
+          "fileTypeName": "Event",
+          "fileId": "SSP99902180410120429_DQ2.EC3",
+          "serialNumber": "SSP99902"
+        }
+      ]
+    }
+  ]
+}
